@@ -1,2 +1,2 @@
-# lwsoft.github.io
-LittleWing Soft blog
+# jungmoona.github.io
+Tech blog
